@@ -14,5 +14,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.utility.noice-nvim" },
+  { import = "astrocommunity.markdown-and-latex.vimtex" },
   -- import/override with your plugins folder
 }
